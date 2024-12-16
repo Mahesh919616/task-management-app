@@ -1,0 +1,9 @@
+body{
+  background-color: #cbdbff;
+}
+.page-height{
+  padding: 4px;
+  min-height: 630px;
+  overflow: auto;
+  padding-bottom: 30px;
+}
